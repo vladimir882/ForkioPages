@@ -1,0 +1,26 @@
+{
+  "name": "project-forkio",
+  "version": "1.0.0",
+  "description": "Creation Project: Yaroslav Kh. & Vladimir Sb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Yaroslav Kh. & Vladimir Sb.",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "browserslist": "^4.21.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.66.1"
+  },
+  "type": "module"
+}
